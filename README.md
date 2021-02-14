@@ -9,17 +9,19 @@ Este va a ser el repositorio para todo el codigo relacionado con el tercer labor
 ### HOW TO RESTORE BACKUP (COMO RESTAURAR RESPALDO)
 
 The backup is a directory containing all necessary BSON's. It can be restored using `mongorestore`:
-`
+
+```
 cd third_lab_web_designii
 mongorestore dump/
-`
+```
 ~
 
 El respaldo es un directorio conteniendo todos los BSON's necesarios. Puede ser restaurado usando `mongorestore`:
-`
+
+```
 cd third_lab_web_designii
 mongorestore dump/
-`
+```
 
 ### Accessing the database `my_theater_studio` (Accediendo a la base de datos `my_theater_studio`)
 
